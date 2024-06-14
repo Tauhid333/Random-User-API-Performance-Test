@@ -3,9 +3,9 @@
 ## Introduction
 
 WeatherAPI.com interactive API explorer or IO Docs allows you to test our APIs and methods. It returns response headers, response code and response body.
-For complete documentation please visit our Weather API Documentation section.
+For complete documentation please visit the Weather API Documentation section.
 
-You can also now use our Swagger tool to learn as to how to form weather Request. Visit [Swagger Tool](https://app.swaggerhub.com/apis-docs/WeatherAPI.com/WeatherAPI/1.0.2)
+You can also now use the Swagger tool to learn as to how to form weather Request. Visit [Swagger Tool](https://app.swaggerhub.com/apis-docs/WeatherAPI.com/WeatherAPI/1.0.2)
 
 
 ## Table of Contents
@@ -21,7 +21,7 @@ You can also now use our Swagger tool to learn as to how to form weather Request
 
 ## Overview
 
-The Weather API provides product data via the endpoint [http://api.weatherapi.com/v1/current.json?key=63e1b2500f9a4d1da62120232241106&q=London&aqi=no](http://api.weatherapi.com/v1/current.json?key=63e1b2500f9a4d1da62120232241106&q=London&aqi=no). Performance testing was conducted to ensure the API can handle various levels of traffic and to identify its maximum capacity.
+The Weather API provides Weather data via the endpoint [http://api.weatherapi.com/v1/current.json?key=63e1b2500f9a4d1da62120232241106&q=London&aqi=no](http://api.weatherapi.com/v1/current.json?key=63e1b2500f9a4d1da62120232241106&q=London&aqi=no). Performance testing was conducted to ensure the API can handle various levels of traffic and to identify its maximum capacity.
 
 ## Tests Conducted
 
