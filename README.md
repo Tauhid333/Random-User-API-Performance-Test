@@ -16,7 +16,6 @@ You can also now use our Swagger tool to learn as to how to form weather Request
   - [Stress Test](#stress-test)
   - [Capacity Analysis](#capacity-analysis)
 - [Results](#results)
-  - [Excel Reports](#excel-reports)
   - [Screenshots](#screenshots)
   
 
